@@ -1,10 +1,12 @@
 CatFace
 =======
 
-A simple quartz composer face tracking, replaced with cats.
+A simple quartz composer face tracking, replaced with **cats**.
 
 Added catface.qtz, quartz composition file.
 
-![alt tag](https://github.com/fukarinka/CatFace/blob/master/scr/catface_scr.png)
+![screenshot](https://github.com/fukarinka/CatFace/blob/master/scr/catface_scr.png)
 
 :)
+
+Copyright (C) 2014 Muhammad Syahman
